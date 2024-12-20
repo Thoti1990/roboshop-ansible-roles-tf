@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-dev.devopsaws.site
+MYSQL_HOST: mysql-dev.devopsaws.site
+RABBITMQ_HOST: rabbitmq-dev.devopsaws.site
+REDIS_HOST: redis-dev.devopsaws.site
+CATALOGUE_HOST: catalogue-dev.devopsaws.site
+USER_HOST: user-dev.devopsaws.site
+CART_HOST: cart-dev.devopsaws.site
+SHIPPING_HOST: shipping-dev.devopsaws.site
+PAYMENT_HOST: payment-dev.devopsaws.site
+DISPATCH_HOST: dispatch-dev.devopsaws.site
