@@ -1,3 +1,4 @@
+
 - name: install mysql client
   ansible.builtin.dnf:
     name: mysql
