@@ -8,3 +8,5 @@ CART_HOST: cart-dev.devopsaws.site
 SHIPPING_HOST: shipping-dev.devopsaws.site
 PAYMENT_HOST: payment-dev.devopsaws.site
 DISPATCH_HOST: dispatch-dev.devopsaws.site
+NEXUS_URL: http://172.31.5.95:8081/repository
+group_id: "com/roboshop"
